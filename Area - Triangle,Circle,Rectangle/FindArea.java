@@ -30,7 +30,7 @@ class FindArea
 		System.out.println("Enter the length of the rectangle: ");
 		int length=input.nextInt();
 		
-		System.out.println("Enter the length of the rectangle: ");
+		System.out.println("Enter the breadth of the rectangle: ");
 		int breadth=input.nextInt();
 		
 		System.out.println("Area of the Circle: "+Area(rad));
